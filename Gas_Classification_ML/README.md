@@ -271,3 +271,9 @@ Logistic Regression with C=10 was selected based on validation performance and a
 The sensor drift analysis identified substantial distribution changes across measurement batches, including comparisons within individual gas categories.
 
 The developed Streamlit application provides an interactive platform for gas prediction, model evaluation and sensor drift visualization.
+
+## 🎥 Project Demo
+
+Watch the live demonstration of our Gas Classification and Sensor Drift Analysis project:
+
+▶️ [Click here to watch the project demo on YouTube] https://youtu.be/swR2b8inVGA
