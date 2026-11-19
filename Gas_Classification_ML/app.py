@@ -70,7 +70,7 @@ st.write(
 
 uploaded_file = st.file_uploader(
     "Choose your sensor CSV file",
-    type=["csv"]
+    type=["csv" , "dat"]
 )
 
 if uploaded_file is not None:
